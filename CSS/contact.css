@@ -5,8 +5,11 @@
     text-align: center;
   }
   
+  h1 {
+    color: #12100C
+  }
   .title {
-    color: grey;
+    color: #999795;
     font-size: 18px;
   }
   
@@ -26,7 +29,7 @@
   #link {
     text-decoration: none;
     font-size: 18px;
-    color: white;
+    color: #FAF9F7;
   }
   
   button:hover, a:hover {
@@ -34,6 +37,6 @@
   }
 
   .button {
-    border-radius: 2px;
+    border-radius: 16px;
 }
 
