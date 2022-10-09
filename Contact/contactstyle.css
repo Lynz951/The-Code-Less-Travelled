@@ -1,10 +1,10 @@
-/* body {
-  background-color: #F8F9FA;
-} */
 
-/* h1 {
-  color: #12100C
-} */
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
