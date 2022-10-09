@@ -1,0 +1,22 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+
+.picture {
+    position: relative;
+    text-align: center;
+    color: #F8F9FA;
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
+
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 35px;
+    font-size: 35px;
+  }
