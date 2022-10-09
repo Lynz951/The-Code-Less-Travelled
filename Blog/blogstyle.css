@@ -6,7 +6,7 @@ body, html {
   color: #777;
 }
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5{
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6, .bgimg-7{
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
@@ -22,32 +22,32 @@ body, html {
 
 .bgimg-2 {
   background-image: url("/Blog/Blog Assets/lexfall.png");
-  min-height: 400px;
+  min-height: 600px;
 }
 
 .bgimg-3 {
   background-image: url("/Blog/Blog Assets/lexnationalrainbow.png");
-  min-height: 400px;
+  min-height: 600px;
 }
 
 .bgimg-4 {
   background-image: url("/Blog/Blog Assets/LArv.jpg");
-  min-height: 400px;
+  min-height: 600px;
 }
 
 .bgimg-5 {
   background-image: url("/Blog/Blog Assets/sunsetLA.jpg");
-  min-height: 400px;
+  min-height: 600px;
 }
 
 .bgimg-6 {
-  background-image: url("/Blog/Blog Assets/sunsetLA.jpg");
-  min-height: 400px;
+  background-image: url("/Blog/Blog Assets/mainouray.jpg");
+  min-height: 600px;
 }
 
 .bgimg-7 {
-  background-image: url("/Blog/Blog Assets/sunsetLA.jpg");
-  min-height: 400px;
+  background-image: url("/Blog/Blog Assets/Lexnight.jpg");
+  min-height: 800px;
 }
 
 
