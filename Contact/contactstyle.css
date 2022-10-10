@@ -3,7 +3,7 @@ body, html {
   height: 100%;
   margin: 0;
   font: 400 15px/1.8 "Lato", sans-serif;
-  color: #777;
+  color: #565451;
 }
 
 .card {
@@ -14,7 +14,7 @@ body, html {
   }
   
   .title {
-    color: #999795;
+    color: #565451;
     font-size: 18px;
   }
   

@@ -1,11 +1,11 @@
 
 body, html {
-    height: 100%;
-    margin: 0;
-    font: 400 15px/1.8 "Lato", sans-serif;
-    color: #777;
-  }
-  
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #565451;
+}
+
   .picture {
       position: relative;
       text-align: center;
@@ -22,7 +22,7 @@ body, html {
     }
   
     .btn {
-      color: white;
+      color: #FAF9F7;
       background-color:  #F7A731
       
     }
